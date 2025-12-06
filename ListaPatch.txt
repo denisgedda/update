@@ -1,0 +1,13 @@
+main.premium 6d299820 2775700
+Matrix.Plugins f303dc39 2097412
+QuickAccess.bmp e295cad7 1345976
+Data/Custom/EmoteSystem/BackEmote.ozt 5621c265 4194352
+Data/Custom/EmoteSystem/RenderEmote.ozt caf121c7 4194352
+Data/Custom/Interface/BossLifeBar.ozt b773a833 1048624
+Data/Custom/Interface/ClearInventory.OZT 4fbb5b27 7548
+Data/Custom/Interface/DyingMessageEng.ozt a6916c2c 2359344
+Data/Custom/Interface/DyingMessagePor.ozt a6916c2c 2359344
+Data/Custom/Interface/DyingMessageSpn.ozt a6916c2c 2359344
+Data/Custom/Interface/LoginBtn.ozt 5ecfb1cd 5520
+Data/Custom/Interface/Money.ozt 247ca940 31968
+Data/Custom/Interface/Money2.ozt 2584aec6 137008
